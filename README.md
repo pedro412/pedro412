@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I’m currently working on Jaya Company as a frontend developer using React.
+
+I have work on different projects of my own making websites and small apps as a freelance using JavaScript/TypeScript as the main programing language, i have build Restfuls API's with Express, Nest, Hapi, sometimes also with .NET Core with Databases such as MongoDB, PostgreSQL, SQL Server or MySQL. 
+
+I have also setup a little DevOps of my own with Nginx, Jenkins, Travis, Docker, on platforms like AWS and Google Cloud.
+
 <!--
 **pedro412/pedro412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
