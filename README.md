@@ -4,7 +4,7 @@
 
 I have work on different projects of my own making websites and small apps as a freelance using JavaScript/TypeScript as the main programing language, i have build Restfuls API's with Express, Nest, Hapi, sometimes also with .NET Core with Databases such as MongoDB, PostgreSQL, SQL Server or MySQL. 
 
-I have also setup basic DevOps stuff in Linux with Nginx, Jenkins, Travis, Docker, on platforms like AWS and Google Cloud.
+I have also setup basic DevOps stuff with Linux, Nginx, Jenkins, Travis, Docker, on platforms like AWS and Google Cloud.
 
 ## 📈 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro412&theme=dracula)](https://github.com/pedro412/github-readme-stats)
