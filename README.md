@@ -13,7 +13,7 @@ I have also setup basic DevOps stuff with Linux, Nginx, Jenkins, Travis, Docker,
 
 
 <!--
-**pedro412/pedro412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pedro412/pedro412** is a ✨ _special_ ✨  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
