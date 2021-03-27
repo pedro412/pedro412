@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Jaya Company as a frontend developer using React.
+🔭 I’m currently working at Scotiabank MX, as a frontend developer using React.
 
-I have work on different projects of my own making websites and small apps as a freelance using JavaScript/TypeScript as the main programing language, i have build Restfuls API's with Express, Nest, Hapi, sometimes also with .NET Core with Databases such as MongoDB, PostgreSQL, SQL Server or MySQL. 
+I have work on different projects of my own making websites and small apps as a freelance using JavaScript/TypeScript as the main programing language, i have build Restfuls API's with Express, Nest, Hapi, sometimes also with .NET Core with Databases such as MongoDB, PostgreSQL, SQL Server or MySQL.  
 
 I have also setup basic DevOps stuff with Linux, Nginx, Jenkins, Travis, Docker, on platforms like AWS and Google Cloud.
 
