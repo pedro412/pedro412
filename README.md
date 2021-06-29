@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working at Scotiabank MX, as a frontend developer using React.
+🔭 I’m currently working as a frontend developer using React.
 
 I have work on different projects of my own making websites and small apps as a freelance using JavaScript/TypeScript as the main programing language, i have build Restfuls API's with Express, Nest, Hapi, sometimes also with .NET Core with Databases such as MongoDB, PostgreSQL, SQL Server or MySQL.  
 
